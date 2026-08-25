@@ -3,7 +3,7 @@ title: "Jazero: A Semantic Table Search System"
 collection: publications
 date: 2026-05-04
 venue: 'ICDE'
-paperurl: TBA'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11629419'
 citation: 'Martin Pekár Christensen, Matteo Lissandrini, Katja Hose. (2026). &quot;Jazero: A Semantic Table Search System.&quot; <i>ICDE 2026</i>.'
 ---
 

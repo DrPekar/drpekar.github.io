@@ -3,7 +3,7 @@ title: "An End-to-End Re-Evaluation of Table Entity-Linking Systems"
 collection: publications
 date: 2026-05-04
 venue: 'ICDE'
-paperurl: TBA'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11629360'
 citation: 'Martin Pekár Christensen, Matteo Lissandrini, Katja Hose. (2026). &quot;An End-to-End Re-Evaluation of Table Entity-Linking Systems.&quot; <i>ICDE 2026</i>.'
 ---
 
