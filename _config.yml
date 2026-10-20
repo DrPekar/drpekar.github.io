@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Martin Pekár"
-description              : &description "A PhD candidate in semantic data lakes."
-url                      : https://mrpekar98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "A PhD in semantic data lakes."
+url                      : https://drpekar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MrPekar98/mrpekar.github.io"
 
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Martin Pekár Christensen"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD candidate researching semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search by utilizing knowledge graphs and adaptive and progressive indexing for data discovery. Scalability is a substantial part of this research."
-  location         : "Aalborg"
-  employer         : "Aalborg University"
+  bio              : "I am a PhD from Aalborg University researching semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search by utilizing knowledge graphs and adaptive and progressive indexing for data discovery. Scalability is a substantial part of this research."
+  location         : "Copenhagen"
+  employer         : "Danmarks Statistik"
   uri              : # URL
-  email            : "mpch@cs.aau.dk" 
+  email            : "martin.pekar@outlook.dk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "MrPekar98"
+  github           : "DrPekar"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # martin-p-b70639114/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : MartinkoPekar
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
