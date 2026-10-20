@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Martin Pekár is a PhD candidate at the Department of Computer Science, Aalborg University under supervision by Prof. Katja Hose and Assoc. Prof. [Matteo Lissandrini](https://lissandrini.com/).
+Martin Pekár obtained his PhD in semantic data lakes from the Department of Computer Science, Aalborg University under supervision by Prof. Katja Hose and Assoc. Prof. [Matteo Lissandrini](https://lissandrini.com/).
 His research area is in dataset search, specifically in semantic data lakes, where he aims to enable example-driven data discovery using semantic-aware table search by utilizing knowledge graphs and adaptive and progressive indexing for data discovery.
 Scalability is a substantial part of this research.
 
@@ -27,6 +27,6 @@ Positions
 
 Education
 ------
-* Ph.D in Computer Science, Aalborg University, 2026 (expected)
-* M.S. in Software, Aalborg University University, 2023
+* Ph.D in Computer Science, Aalborg University, 2026
+* * M.S. in Software, Aalborg University University, 2023
 * B.S. in Software, Aalborg University, 2020
