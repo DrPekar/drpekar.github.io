@@ -14,7 +14,7 @@ name                     : &name "Martin Pekár"
 description              : &description "A PhD in semantic data lakes."
 url                      : https://drpekar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MrPekar98/mrpekar.github.io"
+repository               : "DrPekar/drpekar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   name             : "Martin Pekár Christensen"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD from Aalborg University researching semantic data lakes, where I aim to enable example-driven data discovery using semantic-aware table search by utilizing knowledge graphs and adaptive and progressive indexing for data discovery. Scalability is a substantial part of this research."
-  location         : "Copenhagen"
+  location         : "Copenhagen, Denmark"
   employer         : "Danmarks Statistik"
   uri              : # URL
   email            : "martin.pekar@outlook.dk" 
