@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a computer science Ph.D. candidate at Aalborg University and my research is in semantic data lakes, where I work on enabling semantic-aware data lake search by utilizing knowledge graphs and example-driven querying, scalable Big data management, entity linking, and (progressive) data lake indexing.
+I obtained my computer science Ph.D. at Aalborg University researching in semantic data lakes and its core techniques. I work on enabling semantic-aware dataset search by utilizing knowledge graphs and example-driven querying, scalable Big data management, entity linking, multi-criteria ranking, progressive/adaptive data lake indexing, and adaptive vector search indexes.
 
 Publications
 ======
@@ -25,14 +25,15 @@ Talks
 
 Education
 ======
-* Ph.D in Computer Science, Aalborg University, 2025 (expected)
+* Ph.D in Computer Science, Aalborg University, 2026
 * M.S. in Software, Aalborg University University, 2023
 * B.S. in Software, Aalborg University, 2020
 
 Positions
 ======
+* June, 2026 - Present: __Danmarks Statistik__ - Data engineer
 * June, 2024 - September 2024: __Hasso Plattner Institute__ - Research visitor
-* September, 2021 - August, 2025 (expected): __Aalborg University__ - PhD candidate on semantic data lakes
+* September, 2021 - July, 2026: __Aalborg University__ - PhD candidate on semantic data lakes
 * November, 2020 - August, 2021: __Aalborg University__ - Research Assistant on RDF graph database query optimization
 * April, 2015 - October, 2020: __Nykilde Aps__ - Software developer
   
@@ -46,7 +47,7 @@ Skills
 ======
 * C/C++, Python, Bash, and Java
 * SQL, SPARQL, and Cypher
-* Relational and graph databases
+* Relational, graph, and vector databases
 * Graph theory
 * Algorithm development
 * Data management indexes
@@ -57,6 +58,7 @@ Skills
 * Data integration
 * Dataset search
 * Information retrieval
+* Data lakes
 * Semantic Web
 * Linux
 * Docker
