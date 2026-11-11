@@ -22,12 +22,13 @@ Publications
 
 Positions
 ------
+- Jun, 2026 - Present, Danmarks Statistik, Data engineer
 - Jun, 2024 - Sep, 2024, Hasso Plattner Institute, Research visitor
-- Sep, 2021 - Aug, 2026, Aalborg University, PhD candidate in semantic data lakes
+- Sep, 2021 - Jul, 2026, Aalborg University, PhD candidate in semantic data lakes
 - Nov, 2020 - Aug, 2021, Aalborg University, Research assistant on RDF database query optimization
 
 Education
 ------
 * Ph.D in Computer Science, Aalborg University, 2026
-* * M.S. in Software, Aalborg University University, 2023
+* M.S. in Software, Aalborg University University, 2023
 * B.S. in Software, Aalborg University, 2020
